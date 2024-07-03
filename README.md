@@ -1,2 +1,3 @@
-# AKS_DEVX
-Contains all policies - Terraform, Docker files, Kubernetes Yamls
+# Example Repository
+
+This is an example for NPM Scan Demo
