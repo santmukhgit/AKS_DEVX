@@ -1,7 +1,7 @@
 name: NCTL Scan Pipeline Demo
 run-name: ${{ github.actor }} has triggered Scan Action 🚀
 on:
-  workflow_disptacher
+  workflow_dispatcher
   pull_request:
     branches:
       - "main"
